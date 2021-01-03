@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CoursePanda" />
+        <module name="CoursePandaBackend" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CoursePanda" target="1.8" />
+      <module name="CoursePandaBackend" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
